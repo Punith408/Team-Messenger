@@ -1,1 +1,2 @@
 # Team-Messenger
+Implementing secured, reliable and safe messaging service for Enterprise to broadcast messages for all the clients connected to the network. Centralized server system to push messages from socket to another with storing it. Chat box is created using python as primary language which creates a inter connection multiple clients with server support. Utilizes modules like SOCKETS and threading. Using thread to establish synchronization of functions. Data is fully secured and it cannot be hacked since it cannot be accessed from outside as it is hosted locally
